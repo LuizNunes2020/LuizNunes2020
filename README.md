@@ -26,7 +26,7 @@ Sobre mim:
 
 📈 Realizei o curso "Investimentos no Mercado Financeiro" pelo GMF-Unicamp, onde adquiri uma base sólida sobre conceitos financeiros e investimentos.
 
-📈 Curso de Inglês pela Wizard (6 anos, nível avançado).
+📈 Inglês nível avançado.
 
 🧑‍💻 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas.
 
