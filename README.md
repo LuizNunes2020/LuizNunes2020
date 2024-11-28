@@ -20,9 +20,9 @@ Sobre mim:
 
 - Linguagens de Programação: R (Avançado), Python (Avançado) e SQL (Avançado).
 
-- Ferramentas de Visualização e Documentação: Power BI (Intermediário) e LaTeX (Avançado).
+- Ferramentas de Visualização e Documentação: Pandas, Plumber, Power BI, Microsoft Office (Avançado) e LaTeX (Avançado).
 
-- Pacote Office: Excel avançado.
+- Domínio do Pacote Office completo.
 
 📈 Realizei o curso "Investimentos no Mercado Financeiro" pelo GMF-Unicamp, onde adquiri uma base sólida sobre conceitos financeiros e investimentos.
 
