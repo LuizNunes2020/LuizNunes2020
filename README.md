@@ -3,6 +3,7 @@ Oi 👋
 Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026. Atualmente, estou em busca de um estágio no mercado financeiro para aplicar e expandir meus conhecimentos em estatística e programação, contribuindo para projetos nas áreas de investimentos e finanças.
 
 Sobre mim:
+
 🚩 Origem:
 Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas.
 
@@ -15,10 +16,11 @@ Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muit
 Linguagens de Programação: R (Avançado), Python (Intermediário) e SQL (Avançado).
 Ferramentas de Visualização e Documentação: Power BI (Intermediário) e LaTeX (Avançado).
 Pacote Office: Excel avançado.
-📈 Cursos:
 
+📈 Cursos:
 Realizei o curso "Investimentos no Mercado Financeiro" pelo GMF-Unicamp, onde adquiri uma base sólida sobre conceitos financeiros e investimentos.
 Curso de Inglês pela Wizard (6 anos, nível avançado).
+
 🧑‍💻 Projetos:
 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas, demonstrando minhas habilidades práticas e minha forma de organizar e documentar trabalhos.
 
