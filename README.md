@@ -6,7 +6,7 @@ Sobre mim:
 
 🚩 Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas.
 
-🌳 De abril/23 a abril/24, realizei uma Iniciação Científica com bolsa FAPESP na área de Estatística aplicada ao mercado financeiro. O foco do projeto foi estudar a teoria de ondaletas e suas metodologias estatísticas, com ênfase em programação computacional e aplicação em análise de dados financeiros. O projeto incluiu tópicos como análise funcional e séries temporais, com foco em modelagem avançada.
+🌳 De abril/2023 a abril/2024, desenvolvi uma Iniciação Científica com bolsa FAPESP intitulada "Ondaletas e Dados Funcionais - Aplicações em Dados Financeiros", na área de Estatística aplicada ao mercado financeiro. O projeto teve como objetivo principal o estudo aprofundado da teoria de ondaletas e suas metodologias estatísticas, com ênfase no desenvolvimento de soluções computacionais e aplicações práticas na análise de dados financeiros. Durante o estudo, explorei tópicos avançados, como análise funcional e séries temporais, aplicando técnicas de modelagem estatística para extrair insights significativos de dados complexos.
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
 
