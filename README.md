@@ -20,7 +20,7 @@ Sobre mim:
 
 📈 Curso de Inglês pela Wizard (6 anos, nível avançado).
 
-🧑‍💻 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas, demonstrando minhas habilidades práticas e minha forma de organizar e documentar trabalhos.
+🧑‍💻 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas.
 
 🧑‍🤝‍🧑 Tenho ótimas habilidades interpessoais, sou proativo, comunicativo e flexível. Gosto de trabalhar em equipe, me adapto facilmente a novos ambientes e tenho pensamento crítico para resolução de problemas.
 
