@@ -6,6 +6,14 @@ Sobre mim:
 
 🚩 Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas.
 
+🏆 Conquistas Acadêmicas:
+
+- Medalha de Bronze na Kangaroo Mathematics Competition (2020).
+- Avancei para a segunda fase da Olimpíada Brasileira de Matemática (OBM) em 2019.
+- Menção Honrosa na Olimpíada Brasileira de Física (OBF).
+- Menção Honrosa na Olimpíada Brasileira de Astronomia e Astronáutica (OBA).
+- Durante o Ensino Médio, fui ranqueado como o #1 aluno da turma por 3 anos consecutivos (2019-2021).
+
 🌳 De abril/2023 a abril/2024, desenvolvi uma Iniciação Científica com bolsa FAPESP intitulada "Ondaletas e Dados Funcionais - Aplicações em Dados Financeiros", na área de Estatística aplicada ao mercado financeiro. O projeto teve como objetivo principal o estudo aprofundado da teoria de ondaletas e suas metodologias estatísticas, com ênfase no desenvolvimento de soluções computacionais e aplicações práticas na análise de dados financeiros. Durante o estudo, explorei tópicos avançados, como análise funcional e séries temporais, aplicando técnicas de modelagem estatística para extrair insights significativos de dados complexos.
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
