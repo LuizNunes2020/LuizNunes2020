@@ -32,4 +32,4 @@ Sobre mim:
 
 🧑‍🤝‍🧑 Tenho ótimas habilidades interpessoais, sou proativo, comunicativo e flexível. Gosto de trabalhar em equipe, me adapto facilmente a novos ambientes e tenho pensamento crítico para resolução de problemas.
 
-📬 Se desejar entrar em contato, fique à vontade para enviar um e-mail para l255403@dac.unicamp.br!
+📬 Se desejar entrar em contato, fique à vontade para enviar um e-mail para lupibarbosanunes@gmail.com!
