@@ -10,15 +10,15 @@ Sobre mim:
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
 
-Linguagens de Programação: R (Avançado), Python (Avançado) e SQL (Avançado).
+- Linguagens de Programação: R (Avançado), Python (Avançado) e SQL (Avançado).
 
-Ferramentas de Visualização e Documentação: Power BI (Intermediário) e LaTeX (Avançado).
+- Ferramentas de Visualização e Documentação: Power BI (Intermediário) e LaTeX (Avançado).
 
-Pacote Office: Excel avançado.
+- Pacote Office: Excel avançado.
 
 📈 Realizei o curso "Investimentos no Mercado Financeiro" pelo GMF-Unicamp, onde adquiri uma base sólida sobre conceitos financeiros e investimentos.
 
-Curso de Inglês pela Wizard (6 anos, nível avançado).
+📈 Curso de Inglês pela Wizard (6 anos, nível avançado).
 
 🧑‍💻 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas, demonstrando minhas habilidades práticas e minha forma de organizar e documentar trabalhos.
 
