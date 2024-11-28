@@ -10,7 +10,7 @@ Sobre mim:
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
 
-Linguagens de Programação: R (Avançado), Python (Intermediário) e SQL (Avançado).
+Linguagens de Programação: R (Avançado), Python (Avançado) e SQL (Avançado).
 Ferramentas de Visualização e Documentação: Power BI (Intermediário) e LaTeX (Avançado).
 Pacote Office: Excel avançado.
 
