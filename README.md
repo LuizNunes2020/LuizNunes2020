@@ -1,6 +1,6 @@
 Oi 👋
 
-Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026. Atualmente, estou em busca de um estágio no mercado financeiro para aplicar e expandir meus conhecimentos em estatística e programação, contribuindo para projetos nas áreas de investimentos e finanças.
+Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026. Atualmente, estou em busca de um estágio nas áreas de mercado financeiro ou análise de dados, com o objetivo de aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em investimentos, finanças e ciência de dados.
 
 Sobre mim:
 
@@ -18,9 +18,9 @@ Sobre mim:
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
 
-- Linguagens de Programação: R (Avançado), Python (Avançado) e SQL (Avançado).
+- Linguagens de Programação: R, Python e SQL (Avançado).
 
-- Ferramentas de Visualização e Documentação: Pandas, Plumber, Power BI, Microsoft Office (Avançado) e LaTeX (Avançado).
+- Ferramentas de Visualização e Documentação: Pandas, Plumber, Power BI, Microsoft Office e LaTeX (Avançado).
 
 - Domínio do Pacote Office completo.
 
