@@ -1,10 +1,10 @@
 Oi 👋
 
-Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026. Atualmente, estou em busca de um estágio nas áreas de mercado financeiro ou análise de dados, com o objetivo de aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em investimentos, finanças e ciência de dados.
+Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026. Atualmente, busco um estágio nessas áreas para aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em investimentos, finanças e ciência de dados.
 
 Sobre mim:
 
-🚩 Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas.
+🚩  Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas, mas também tenho residência em São Paulo.
 
 🏆 Conquistas Acadêmicas:
 
@@ -18,15 +18,15 @@ Sobre mim:
 
 📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
 
-- Linguagens de Programação: R, Python e SQL (Avançado).
+- Programação e Dados: R, Python e SQL(Avançados); Shiny e Excel VBA (Intermediários)
 
-- Ferramentas de Visualização e Documentação: Pandas, Plumber, Power BI, Microsoft Office e LaTeX (Avançado).
+- Ferramentas de Visualização e Documentação: Power BI, Microsoft Office (Avançado) e LaTeX (Avançado)
 
-- Domínio do Pacote Office completo.
+- Ferramentas e Tecnologias: Pacote Office Completo, GitHub e Google Workspace
 
-📈 Realizei o curso "Investimentos no Mercado Financeiro" pelo GMF-Unicamp, onde adquiri uma base sólida sobre conceitos financeiros e investimentos.
+📈 Cursos: Interfaces Web HTML, CSS, JS (IME-USP), Aplicações do Torch com R (IME-USP) e Investimentos (GMF).
 
-📈 Inglês nível avançado.
+📈 Inglês - nível avançado
 
 🧑‍💻 Disponibilizo no meu GitHub alguns dos meus projetos em programação e relatórios de disciplinas.
 
