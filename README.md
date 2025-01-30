@@ -1,6 +1,6 @@
 Oi 👋
 
-Meu nome é Luiz Felipe, graduando em Estatística na Unicamp. Busco um estágio em mercado financeiro ou análise de dados para aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em finanças e ciência de dados.
+Meu nome é Luiz Felipe, graduando em Estatística na Unicamp (conclusão prevista para 07/2026). Busco um estágio em mercado financeiro ou análise de dados para aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em finanças e ciência de dados.
 
 Sobre mim:
 
