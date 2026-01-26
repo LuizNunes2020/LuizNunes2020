@@ -1,35 +1,41 @@
-Oi 👋
+My name is Luiz Felipe. I’m an undergraduate Statistics student at Unicamp and I’m currently interning on the Data Analysis team at UNA Connect.
 
-Meu nome é Luiz Felipe, graduando em Estatística na Unicamp (conclusão prevista para 07/2026). Busco um estágio em mercado financeiro ou análise de dados para aplicar e expandir meus conhecimentos em estatística, programação e visualização de dados, contribuindo para projetos estratégicos em finanças e ciência de dados.
+About me
 
-Sobre mim:
+🚩 I was born in São Paulo (SP) and currently live in Barão Geraldo (Campinas/SP), but I also have a residence in São Paulo.
 
-🚩 Nasci em São Paulo (SP) e atualmente moro em Barão Geraldo, Campinas, mas também tenho residência em São Paulo.
+🏆 Academic achievements
 
-🏆 Conquistas Acadêmicas:
+Bronze Medal — Kangaroo Mathematics Competition (2020);
 
-- Medalha de Bronze na Kangaroo Mathematics Competition (2020);
-- Avancei para a segunda fase da Olimpíada Brasileira de Matemática (OBM) em 2019;
-- Menção Honrosa na Olimpíada Brasileira de Física (OBF);
-- Menção Honrosa na Olimpíada Brasileira de Astronomia e Astronáutica (OBA);
-- Durante o Ensino Médio, fui ranqueado como o #1 aluno da turma por 3 anos consecutivos (2019-2021).
+Qualified for the second round of the Brazilian Mathematical Olympiad (OBM) (2019);
 
-🌳 De abril/2023 a abril/2024, desenvolvi uma Iniciação Científica com bolsa FAPESP intitulada "Ondaletas e Dados Funcionais - Aplicações em Dados Financeiros", na área de Estatística aplicada ao mercado financeiro. O projeto teve como objetivo principal o estudo aprofundado da teoria de ondaletas e suas metodologias estatísticas, com ênfase no desenvolvimento de soluções computacionais e aplicações práticas na análise de dados financeiros. Durante o estudo, explorei tópicos avançados, como análise funcional e séries temporais, aplicando técnicas de modelagem estatística para extrair insights significativos de dados complexos.
+Honorable Mention — Brazilian Physics Olympiad (OBF);
 
-📊 Tenho grande interesse pelas áreas de finanças e análise de dados. Gosto muito de aprender e me desafiar com novas linguagens de programação e ferramentas analíticas. Atualmente, possuo as seguintes habilidades:
+Honorable Mention — Brazilian Olympiad of Astronomy and Astronautics (OBA);
 
-- Programação e Dados: R, Python e SQL(Avançados); Shiny e Excel VBA (Intermediários);
+During high school, I ranked #1 in my class for 3 consecutive years (2019–2021).
 
-- Ferramentas de Visualização e Documentação: Power BI, Microsoft Office (Avançado) e LaTeX (Avançado);
+🌳 Undergraduate research (FAPESP)
+From Apr/2023 to Apr/2024, I carried out an undergraduate research project funded by a FAPESP scholarship titled “Wavelets and Functional Data – Applications in Financial Data”, in the field of Statistics applied to the financial market.
+The project aimed at an in-depth study of wavelet theory and statistical methodologies, with an emphasis on developing computational solutions and practical applications in financial data analysis. During this period, I explored advanced topics such as functional analysis and time series, applying statistical modeling techniques to extract insights from complex data.
 
-- Ferramentas e Tecnologias: Pacote Office Completo, GitHub e Google Workspace.
+📊 Interests and skills
+I have a strong interest in finance and data analysis. I enjoy learning and challenging myself with new programming languages and analytical tools.
 
-📈 Cursos: Interfaces Web HTML, CSS, JS (IME-USP), Aplicações do Torch com R (IME-USP), Investimentos (GMF), Excel VBA (Cursa) e Power BI (DSA).
+CEA certification (ANBIMA);
 
-📈 Inglês - nível avançado.
+Programming & data: R, Python, and SQL (advanced); Shiny and Excel VBA (intermediate);
 
-🧑‍💻 Disponibilizo no meu GitHub (https://github.com/LuizNunes2020) alguns dos meus projetos em programação e relatórios de disciplinas.
+Visualization & documentation: Power BI, Microsoft Office (advanced), and LaTeX (advanced);
 
-🧑‍🤝‍🧑 Tenho ótimas habilidades interpessoais, sou proativo, comunicativo e flexível. Gosto de trabalhar em equipe, me adapto facilmente a novos ambientes e tenho pensamento crítico.
+Tools & technologies: GitHub and Google Workspace.
 
-📬 Se desejar entrar em contato, fique à vontade para enviar um e-mail para lupibarbosanunes@gmail.com!
+📈 Courses: Web Interfaces (HTML, CSS & JS) — IME-USP; Torch Applications with R — IME-USP; Investments — GMF; Excel VBA — Cursa; Power BI — DSA.
+📈 English: advanced level.
+
+🧑‍💻 I share some of my programming projects and course reports on my GitHub: https://github.com/LuizNunes2020
+
+🧑‍🤝‍🧑 I have strong interpersonal skills: I’m proactive, communicative, and flexible. I enjoy teamwork, adapt easily to new environments, and have critical thinking skills.
+
+📬 If you’d like to get in touch, feel free to email me at lupibarbosanunes@gmail.com.
